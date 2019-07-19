@@ -1,0 +1,117 @@
+.nav-item{
+    font-weight: 300;
+}
+
+.bg-info{
+    background-color: #230059;
+}
+
+#txtSearch{
+    background-color: #fff;
+    color: #230059;
+    border-radius: 60px;
+    border: none;
+}
+
+#imgProfile, #imgProfile2{
+    width: 30px;
+    height: 30px;
+    box-shadow: none;
+    
+}
+
+#imgProfile2{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    float: center;
+}
+
+.mediaVideoYoutubePost{
+    margin-top: -5%;
+}
+
+.dropdownTitle{
+    padding-top: 5px;
+    padding-bottom: 2px;
+    padding-left: 22px;
+}
+
+.nameOnNotification{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.dateAndHourNotification{
+    font-size: 9px;
+    color: #aaa;
+    font-family: segoe UI;
+}
+
+notificationNumber{
+    border: 1px solid #4A3F71;
+    background-color: #4A3F71;
+    border-radius: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 13px;
+    border-radius: 30px;
+}
+
+.cardPost{
+    font-size: 11px;
+}
+
+.namePostTitle, .occupationPostTitle{
+    margin-left: 3%;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Segoe UI;
+}
+
+.occupationPostTitle{
+    color: #aaa;
+    font-weight: 400;
+    margin-left: 1%;
+}
+
+.postDescription{
+    font-family: arial;
+}
+
+.postLinkOptions{
+    font-size: 16px;
+    font-family: Segoe UI;
+    color: #444;
+}
+
+.namePostTitleLink{
+    color: #444;
+}
+
+.namePostTitleLink:hover{
+    color: #aaa;
+}
+
+.postImage{
+    margin-top: -5%;
+}
+
+.btnConfigPost{
+    text-decoration: none;
+    color: #230059;
+    font-size: 15px;
+}
+
+.btnConfigPost:hover{
+    text-decoration: none;
+    color: #230059;
+    font-size: 15px;
+}
+
+.textPostDescription{
+    float: left;
+    color: #999; 
+}
